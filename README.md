@@ -32,7 +32,7 @@ Borrar el registro `A` de tipo *Parked*/*Aparcado* que GoDaddy crea por defecto 
 | A | @ | 185.199.109.153 | 600 |
 | A | @ | 185.199.110.153 | 600 |
 | A | @ | 185.199.111.153 | 600 |
-| CNAME | www | TU-USUARIO.github.io. | 600 |
+| CNAME | www | furrojr-hub.github.io. | 600 |
 
 GitHub confirma estas IP en Settings → Pages una vez añadido el dominio.
 Propagación: entre 10 minutos y 2 horas. El certificado HTTPS lo emite GitHub solo.
